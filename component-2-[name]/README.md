@@ -1,7 +1,7 @@
-# [Component Name]
+# AI Summarizer
 **Owner:** [Member Name]
 ## Description
-[Brief description of what this component does]
+Uses Python and HF API to extract IOCs and summarize text.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
