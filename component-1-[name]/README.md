@@ -1,7 +1,7 @@
-# [Component Name]
-**Owner:** [Member Name]
+# Feed Collector
+**Owner:** Justin Quinones
 ## Description
-[Brief description of what this component does]
+Builds the n8n harvester for RSS and CVE feeds.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
