@@ -1,5 +1,5 @@
 # AI Summarizer
-**Owner:** [Member Name]
+**Owner:** Alexander Lustig
 ## Description
 Uses Python and HF API to extract IOCs and summarize text.
 ## Status
