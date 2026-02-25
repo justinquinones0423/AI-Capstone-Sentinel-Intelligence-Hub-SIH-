@@ -1,7 +1,7 @@
-# [Component Name]
+# Integration/Demo
 **Owner:** [Member Name]
 ## Description
-[Brief description of what this component does]
+Project Backbone: Airtable dashboard, test data, and final demo.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
