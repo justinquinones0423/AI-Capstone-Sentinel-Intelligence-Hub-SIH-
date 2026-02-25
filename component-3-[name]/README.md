@@ -1,7 +1,7 @@
-# [Component Name]
+# Relevance Score
 **Owner:** [Member Name]
 ## Description
-[Brief description of what this component does]
+Logic for matching threats to the Airtable tech stack.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
