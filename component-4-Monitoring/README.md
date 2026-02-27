@@ -1,7 +1,7 @@
-# Integration/Demo
-**Owner:** [Member Name]
+# Monitoring 
+**Owner:** Abdoul Sawadogo
 ## Description
-Project Backbone: Airtable dashboard, test data, and final demo.
+Streamlit dashboard showing triage volume, severity distribution, and response time metrics.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
