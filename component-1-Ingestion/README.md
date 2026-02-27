@@ -1,7 +1,7 @@
-# Feed Collector
+# Ingestion
 **Owner:** Justin Quinones
 ## Description
-Builds the n8n harvester for RSS and CVE feeds.
+Builds the n8n workflow accepting alerts via webhook from multiple formats + normalization to common schema.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
