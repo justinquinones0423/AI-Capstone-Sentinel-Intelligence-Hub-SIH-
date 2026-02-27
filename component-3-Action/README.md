@@ -1,7 +1,7 @@
-# Relevance Score
-**Owner:** [Member Name]
+# Action
+**Owner:** Ujjwal Singh
 ## Description
-Logic for matching threats to the Airtable tech stack.
+n8n workflow creating tickets in free-tier ticketing system + configurable escalation rules.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
