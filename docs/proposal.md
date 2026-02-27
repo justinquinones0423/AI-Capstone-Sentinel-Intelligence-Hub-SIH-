@@ -1,13 +1,13 @@
-# [Project Name]
+# Security Alert Triage Bot
 
 ## Team Members
 
 | Name | Role/Component | GitHub Username |
 |------|---------------|-----------------|
-| [Name 1] | [Component 1] | @[username] |
-| [Name 2] | [Component 2] | @[username] |
-| [Name 3] | [Component 3] | @[username] |
-| [Name 4] | [Component 4] | @[username] |
+| Justin Quinones | Ingestion | @justinquinones0423 |
+| Alexander Lustig | Analysis | @AlexanderLustig |
+| Ujjwal Singh | Action | @ujjwalsingh7 |
+| Abdoul Sawadogo | Monitoring | @abdoulsaw5 |
 
 ## Problem Statement
 
