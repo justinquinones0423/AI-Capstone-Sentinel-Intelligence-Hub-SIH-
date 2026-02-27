@@ -1,2 +1,2 @@
-# AI-Capstone-Sentinel-Intelligence-Hub-SIH-
-This project automates the collection, AI-summarization, and relevance-scoring of global threat intelligence to ensure analysts only focus on high-impact risks.
+# AI-Capstone-Security-Alert-Triage-Bot
+SOC analysts are overwhelmed by alert volume and need automated triage to prioritize critical alerts.
