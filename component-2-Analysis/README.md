@@ -1,7 +1,7 @@
-# AI Summarizer
+# Analysis
 **Owner:** Alexander Lustig
 ## Description
-Uses Python and HF API to extract IOCs and summarize text.
+Multi-agent system (analyst, researcher, recommender) with reasoning trace visible in UI.
 ## Status
 - [ ] Design complete
 - [ ] Sample data prepared
