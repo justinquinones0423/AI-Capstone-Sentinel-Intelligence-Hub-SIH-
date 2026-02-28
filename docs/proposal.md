@@ -18,7 +18,7 @@ The primary users are SOC Analysts and Security Managers at mid-to-large sized o
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/AI%20Security%20Alert%20Triage%20Bot%20-%20System%20Architecture.png)
 
 ## Component Breakdown
 ### Component 1: Ingestion (Owner: Justin Quinones)
@@ -80,3 +80,9 @@ The primary users are SOC Analysts and Security Managers at mid-to-large sized o
 | 10-12 | Full system integration and error handling (End-to-end testing)|
 | 13-14 | Polish UI, finalize documentation, and record demo |
 | 15 | Final presentation |
+
+
+Our group focuses on creating a highly modular architecture where each member has a distinct,
+standalone piece of the puzzle that communicates through a central Airtable "Source of Truth".
+By choosing the Security Alert Triage Bot, we are able to leverage our collective interests in cybersecurity and automation, while ensuring the lead engineer has enough room to implement complex multi-agent logic.
+
